@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Signes are from the Lord to a people or nation to forewarn them of some eminent judgment near at hand.</title>
+            <author>Eccles, Solomon, 1618-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37665</idno>
+            <idno type="STC">Wing E130</idno>
+            <idno type="STC">ESTC R27314</idno>
+            <idno type="EEBO-CITATION">09808393</idno>
+            <idno type="OCLC">ocm 09808393</idno>
+            <idno type="VID">44136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1355:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Signes are from the Lord to a people or nation to forewarn them of some eminent judgment near at hand.</title>
+                  <author>Eccles, Solomon, 1618-1683.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Solomon Eccles.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44136:1" rendition="simple:additions"/>
+            <head>Signes are from the Lord to a People or Nation, to forewarn them of ſome eminent Judgment near at hand.</head>
+            <p>Thus ſaith the Lord Jeſus Chriſt, <hi>I, and the Children which thou haſt given me, are for Signes and Wonders in Iſrael, from the Lord of Hoſts, who dwelleth in Mount Sion,</hi> Iſa. 8. 18.</p>
+            <p>And when the Lord ſaw that <hi>Iſaiah</hi> had walked long enough mournfully in Sackcloth, he then commanded him to looſe the Sackcloth from off his Loins and put his Shoos from off his Feet; and he did ſo, walking naked &amp; bare-foot three years. And the Lord ſaid, <hi>Like as my ſervant Iſaiah hath walked naked and bare-foot three years, as a Sign and Wonder upon Egypt and Ethiopia, ſo ſhall the king of Aſſyria lead away the Egyptians priſoners, and the Ethiopians Captives; Young and Old, Naked, and Bare-footed, with their Buttocks uncovered, to the ſhame of Egypt,</hi> Iſa. 20.</p>
+            <p>
+               <hi>Ezekiel</hi> was commanded <hi>to lay ſiege againſt</hi> Judah <hi>and</hi> Jeruſalem. <hi>Three hundred and ninety dayes he muſt lie on his left ſide, and bear the iniquity of the houſe of Iſrael: and Forty dayes on his right ſide, to bear the iniquity of Judah:</hi> And after this he <hi>muſt ſhave his head and heard; and caſt part of it in the fire, and part into the air.</hi> And the Lord ſaid, <hi>I will do in thee that which I have not done, and that which I will not do the like; the fathers ſhall eat their ſons in thee, and the ſons ſhall eat their fathers; and I will execute Judgment in thee, and the whole remnant of them I will ſcatter into all the winds.</hi> Ezek. 4th and 5th chapters.</p>
+            <p>Now therefore, by the ſame Spirit hath the Lord raiſed me, to go as a Sign to this dark Generation, who are as black within as the <hi>Ethiopians</hi> were without; yea and more wicked than <hi>Sodom</hi> and <hi>Gomorrah</hi> it ſelf.</p>
+            <p>Therefore let all beware and repent ſpeedily; for of a truth, <hi>The Lord God is com<g ref="char:EOLhyphen"/>ing with all his Saints about him, to execute judgement upon all, and to convince all that are ungodly among them, of all their ungodly deeds which they have committed, and of all their hard ſpeeches, which ungodly ſinners have ſpoke againſt him.</hi> I can truly ſay this, That I have ſtrove much, and beſought the Lord, that this going naked might be taken from me, before ever I went a Sign at all; but the weight lay on me ſtill, and when firſt I had given up to go and was obedient; the word of the Lord came to me ſaying, <hi>Look that through the mighty power of God thou art carried through this work.</hi> I was glad to hear this word from the mouth of the Lord. This was in the Year, 1659, when I was made to go into <hi>Calamy</hi>'s <hi>Steeple-houſe,</hi> for which I was impriſoned the ſpace of eight months. The next time I was raiſed to go, was before the Pagents were ſet up in the Streets, and the power of the Lord did riſe in me to go thorow the City, and I would have put it by, though I felt the Living Power preſent: yet ha<g ref="char:EOLhyphen"/>ving no word, I did conclude to ſtay till the next week; but the Voice of the Lord was in me, ſaying, <hi>To morrow, to morrow:</hi> So I durſt not withſtand, but gave up and went from this ſide the Barrs in <hi>White-Chappel,</hi> to the upper end of <hi>Cheapſide,</hi> in the good Power of the Lord, and I received three or four Laſhes in or about the <hi>Stocks,</hi> and I turned about and ſaid, <hi>The Lord forgive thee. R. Brown</hi> was then Mayor. I was committed priſoner to <hi>Bridewel,</hi> and there was cruelly uſed, (the Lord lay it not to their charge) and ſix moneths Impriſoned.</p>
+            <p>The next time the Lord appeared to me, to go with Fire and Brimſtone on my head Naked, and I had much trouble in me as to that, till the Word of the Lord came to me, and indeed at that time I was in great diſtreſs: For the Light made manifeſt that I muſt go, but where and when I knew not: Then came the Word of the Lord and Commandment, ſaying, <hi>Thou ſhalt go, and I will make way for thee:</hi> And as I was going through <hi>Bartholmew-Fair,</hi> ſo called, not thinking any thing, going onely to ſee a Friend, the Lord cauſed me to ſtand ſtill, and beholding their filthy Tricks upon Sta<g ref="char:EOLhyphen"/>ges, with Fools and Monſters, in ugly ſhapes, to draw the minds of People from the Lord, my very Bowels were pained in me; I then did admire the patience and for<g ref="char:EOLhyphen"/>bearance of the Lord, and ſaid within my ſelf, How greatly is God diſhonoured by this provoking Generation? And preſently a weight fell on me to obey the Higher Power, and I was given up to the work with a good heart: and the dear Friend <hi>W. G.</hi> who was with me twice before, who was as my right-hand, aſſiſted me in the work, and ſo in the faith of Jeſus Chriſt, I was above the fear of men; and the Lord found me out ſome place, not in any houſe, but in a yard, where I ſtript me, and had the Pan of Coales and Brimſtone; then did I ſpeak forth theſe words, <hi>Repent ſpeedily, for God will not be mocked. Remember Sodom and Gomorrah, who are your Examples; they do en<g ref="char:EOLhyphen"/>dure the vengeance of Eternal Fire.</hi> And I went thorow the <hi>Cloyſters,</hi> and thorow the <hi>Lame-Hoſpital,</hi> and down <hi>Smithfield,</hi> to the place where I deſired the Lord that I might paſs that crew of Players, that they might ſee what ſhould be their Reward for their work. And I ſounded forth thoſe words there, and I had the end of my deſire to a ſtep. Then ſuddenly did one throw off the Pan of Coals from my head, and I felt the ſervice over. And a Friend having a Coat, coming after me, put it on me, and ſo I paſſed thorow <hi>Bartholomews-Cloſe</hi> into <hi>Little-Britain,</hi> and had no hurt, &amp; hardly a mouth open againſt me; ſo I went home unto my honeſt imployment. And this was the firſt time I was a warning to thoſe Players and Spectators.</p>
+            <p>The next year I paſſed by that way again, and did behold their filthy Shows, at which the Power of God roſe in me againſt that curſed Practice. I did immediately prepare to lay down my Body a Sacrifice for God, which was my reaſonable ſervice; and then coming forth in the Power of God, I paſſed into the midſt of them, the Pan of Coals on my head burning with Fire and Brimſtone; and I ſpake forth the ſame words, as the Year before; and I was clapt and beaten and afterwards whipt by one who ſaid he had twenty laſhes at me: I know not the number: but when he hit me two or three Laſhes, I was made to ſtand ſtill in God's Power, and he hit me ſeveral Laſhes more, but in God's ſtrength I was made to bear them all, and when I felt he had done, I turned and ſaid, <hi>The Lord forgive thee.</hi> Preſently after that time I was ſore put to it, and had much a-doe to come off with my Life; for I was ſo cruelly worried with the Butchers and wicked looſe Men, that I could neither ſtand nor go. Yet out of all this I was preſerved by the mighty God of <hi>Jacob.</hi>
+            </p>
+            <p>And now this <hi>Third Year,</hi> in which I had more dread upon my heart, than ever I had: for truly, men are more deſperately wicked than ever; but in the ſtrength and power of the Lord I was made to give up, it being the third and laſt time: <hi>And out of the mouth of two or three Witneſſes ſhall every word be eſtabliſhed.</hi> I had a good Friend was given up, and his ſervice was honourable, who went before me with ſuch a living power, and made way for me with good ſpeed. And another true and ſerviceable Friend that came behind me, who renewed the Brimſtone to the Fire, ſo that the ſmell of Brimſtone was hot in the <hi>Fair.</hi> This Friend had the better part of his Coat rent off, and his Pocket pickt of about four ſhillings.</p>
+            <p>So the Work being throughly over, I had peace with God; but going through <hi>Bartholomews Cloſe,</hi> I was ſtopt by one <hi>Clark</hi> that keeps a Tavern thereabouts, for it made much againſt his market; for I was a Sign againſt all Drunkards and Swiniſh men and women, who ryot at ſuch places, as his is, at ſuch times: but he filthily uſed me with his gang, and my dear Friend which brought my Cloathes to me, and haled us rudely to <hi>Richard Brown</hi>'s houſe, but he was not within; notwithſtanding this Tavern-keeper commanded this ſwiniſh Crew to carry us to Priſon; (ſome of which Gang not long before pickt this Friend's pocket alſo) but I being ſo weary that I could go no further, they lay with ſuch a weight upon me there, that I was made to lie down, and they carried me upon their ſhoulders to Priſon, and put my dear Friend and I into the Hole, where thoſe that are to be executed are put: and about the ſeventh hour, <hi>Richard Brown</hi> being come home, we were carried before him. Now the Tavern-keeper began to accuſe me, but could hardly ſpeak a plain word; Then <hi>Richard Brown</hi> calling to me, began to jeer me, and ſaid, <hi>Mark this man: Not when he opens his mouth; but when he openeth his mouth, openeth his mouth:</hi> and ſo he ſate down. I ſaid, A Magiſtrate ſhould not jeer thoſe that come before him: and when I did perceive he was a little ſilent, I ſaid, Is it a ſin to pray for a man's ene<g ref="char:EOLhyphen"/>mies? he ſaid, <hi>No: But</hi> (ſaid he) <hi>it is a ſin for you to go naked.</hi> I ſaid, What I did, was in Obedience to the living God. He ſaid, <hi>How will you make that appear? I will not believe you.</hi> I ſaid, The Lord commanded me. He ſaid, <hi>Where?</hi> I ſaid, In my heart. He ſaid, <hi>So will the Thieves ſay.</hi> I ſaid, Thou muſt be tryed by that of God in thy heart. He ſaid, <hi>Leave your canting.</hi> I ſaid, Shew me what Law I have broke. He ſaid, <hi>It was a Ryot.</hi> I ſaid, Thou wilt not believe me when I tell the truth, I ſhall not believe thee now, except thou reade the Law to me: haſt thou not a Clerk here? thou oughteſt to have ſuch things ready when men are brought be<g ref="char:EOLhyphen"/>fore thee. He ſaid, <hi>Take him away:</hi> and ſo turning himſelf to his wife and daugh<g ref="char:EOLhyphen"/>ters, he ſaid, <hi>I told you when he openeth his mouth.</hi> And then he began to be in an ex<g ref="char:EOLhyphen"/>ceeding great rage, and called me <hi>Rogue,</hi> for putting on my Hat before him, and bid take me away and carry me to <hi>Bridewell,</hi> and the Friend with me. Then they called him back again, and the Tavern-keeper and Conſtable charged him for carrying my Cloaths after me. The Friend ſaid, I brought his Cloaths to him. <hi>R. B.</hi> ſaid, <hi>Did you not ſet him on to do it?</hi> the Friend ſaid, No. Then <hi>R. B.</hi> called to me and ſaid, <hi>Sirrah, here's one denies you: you'l all deny one another when you come to be tryed.</hi> The Friend ſaid, I do not deny him neither. <hi>R. B.</hi> ſaid, <hi>Were you not with him when he put off his Cloaths?</hi> the Friend was ſilent. Then <hi>R. B.</hi> asked, what houſe he put off his Cloaths in? the Friend gave him little anſwer. Then he asked, <hi>What were the words he ſpake?</hi> the Friend ſaid, Ask him. I replyed (being at ſome diſtance) I would tell thee what I ſpake; but he would not hear me. Then he asked the Friend what his Name was: and he told him his Name and Trade; and then he jeered him, and ſaid, <hi>You cut a Louſe in two, and ſo bloudied your ſelf.</hi> Then ſaid he to the Tavern<g ref="char:EOLhyphen"/>keeper, <hi>What have you againſt this man?</hi> he ſtood ſtammering, and would have ſpoken ſomething, but could not tell what. Then <hi>Brown</hi> asked him again, <hi>What is it?</hi> and he could ſay nothing. The Friend ſeeing nothing charged againſt him, ſaid, he was clear: but the Tavern-keeper ſaid, <hi>We ſhall have ſomething againſt you;</hi> and ſo ſent us both to Priſon, and the Keeper put us both into the Hole again: and when we were in, the Tavern-keeper jeered us.</p>
+            <p>Oh! how is the Lord and his People grieved at the filthy converſation of the wicked! Yet behold the goodneſs of the Lord, that after ſo long time grieved with your doings, he yet doth warn you to come to Repentance, and invites you by his Meſſengers to come out of <hi>Sodom;</hi> for, did ever <hi>Sodom</hi> exceed this Generation for pride, fulneſs of bread, and abundance of idleneſs? Abundance of Spectators of thoſe filthy ſports: Wo to you <hi>Stage-players, Monſters, Fidlers, Pipers, Dancers on Ropes</hi> to provoke the Lord; <hi>Juglers, Cheaters, Whores</hi> and <hi>Harlots:</hi> Repent ſpeedily; for this is your day of Viſitation; I am your Sign from the dreadful Lord God; who hath ſent me three ſeveral times, to leave you inexcuſable. The Lord is now clear of your bloods, and I his poor Servant, who have ventured my life each time freely, that you might hear and believe, and remember the words which have been ſpoke to you; for not one of them ſhall fall to the ground. And remember the old world, that was deſtroyed by Water; but this is <hi>reſerved unto Fire againſt the day of Judge<g ref="char:EOLhyphen"/>ment and Perdition of ungodly men,</hi> as ſaith the Apoſtle, 2 <hi>Pet.</hi> 3. 7.</p>
+            <p>The firſt year I was carried through without being hurt or impriſoned. The ſecond year I was whipt and beaten, but not impriſoned. This third and laſt year, beaten, and whipt, and badly uſed, and falſly impriſoned by <hi>Richard Brown:</hi> But <hi>all that will live godly in Chriſt Jeſus muſt ſuffer perſecution.</hi> But I do beſeech the Lord not to charge this ſin upon their head, with the reſt of their iniquiries, but rather that he would give them Repentance and Amendment of life, that all may turn to the Light that condemns for ſin, and wait till that which condemns may ſave them from ſin.</p>
+            <p>And this is the deſire of him who is a Priſoner for the Teſtimony of Jeſus Chriſt, and for going <hi>a Sign in the Life and Power of the Eternal God,</hi> who alone is bleſſed for ever and for evermore.</p>
+            <p>
+               <hi>O Lord, I do return to thee Praiſes, Praiſes; Glory, Glory: for thou art worthy; who haſt ſent me, and upheld me theſe three times: yea, to thee be the Glory, Power and ſtrength, and the Victory, and the Dominion for ever and for evermore. Hallelujahs to the Lord God Eternal.</hi> Amen.</p>
+            <p>Given forth by the Spirit of Truth, and written in the Priſon of <hi>Newgate,</hi> by him who is kept in bonds (having broke no Law) for ſtanding in God's Counſel, and for doing that which makes men wonder: And this I give forth for the honour of God, that it was not I, but Chriſt Jeſus come in my fleſh, and this body hath he prepared to do the Will of his Father in me: Not in my will, nor when I will: (Nay) <hi>Not I,</hi> but <hi>Chriſt Jeſus:</hi> not <hi>fleſh and blood,</hi> but <hi>the Power of God</hi> which did this Work in me, and for me. <hi>Glory everlaſting to the King of Saints.</hi>
+            </p>
+            <closer>
+               <signed>Solomon Eccles.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
